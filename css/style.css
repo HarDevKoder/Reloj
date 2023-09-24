@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'miFuente';
+  src: url('/fuentes/roboto.ttf');
+}
+
+html {
+  background-color: azure;
+  font-family: miFuente;
+}
+
